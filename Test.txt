@@ -7,4 +7,5 @@ int main()
 {
   //Code for Kishor 
   cout<<"Hiii Kishor"<<endl;
+  cout<<"Chicken fry"<<endl;
 }
