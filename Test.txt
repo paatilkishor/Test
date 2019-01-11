@@ -10,3 +10,7 @@ int main()
   cout<<"Chicken fry"<<endl;
   cout<<"\n"<<endl;
 }
+
+
+Beans
+Pizza
